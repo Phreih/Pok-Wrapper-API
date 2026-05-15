@@ -378,6 +378,6 @@ pokeapi-wrapper/
 
 ## Autor
 
-Proyecto desarrollado como parcial de la asignatura de desarrollo de APIs.
+Proyecto desarrollado como parcial de la asignatura de DESARROLLO DE APLICACIONES WEB II - 5C.
 
 **API externa:** [PokeAPI](https://pokeapi.co) — Completamente gratuita, sin API Key requerida.
